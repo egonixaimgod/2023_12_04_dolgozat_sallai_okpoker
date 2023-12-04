@@ -1,8 +1,8 @@
 /*
-* File: App.java
-* Author: Nagy József
-* Copyright: 2021, Nagy József 
-* Date: 2021-09-11
+* File: MainController.java
+* Author: Bodnár Bence
+* Copyright: 2023, Bodnár Bence 
+* Date: 2023-12-04
 * Licenc: MIT
 *
 */
